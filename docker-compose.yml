@@ -1,0 +1,7 @@
+services:
+  real-estate-app:
+    build: .
+    container_name: gurgaon-ml-app
+    ports:
+      - "8501:8501"
+    restart: always # If the server reboots, your app automatically restarts!

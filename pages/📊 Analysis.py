@@ -13,7 +13,7 @@ st.set_page_config(page_title='Gurgaon Real Estate Analytics', layout='wide')
 @st.cache_data
 def load_data():
     # Update this path to your actual dataset location
-    df = pd.read_csv(r'D:\major project\datasets\data_viz1.csv')
+    df = pd.read_csv('datasets/data_viz1.csv')
     
     # Load feature text for the wordcloud
     with open('feature_text.pkl', 'rb') as f:
