@@ -1,4 +1,4 @@
-# 🏙️ PropIntel: AI-Based Real Estate Multi-Service Hub (Gurgaon)
+# AI-Based Real Estate Multi-Service Hub (Gurgaon)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
@@ -12,9 +12,9 @@ This project encompasses the entire ML lifecycle: from scraping and deep-cleanin
 
 ##  Key Features
 The platform is divided into three core user-facing modules:
-1. ** Price Predictor:** Enter property details (Sector, BHK, Area, Luxury Tier) to get an instant, AI-driven price estimate with ~90% accuracy.
-2. ** Market Analysis:** Interactive dashboards featuring price-area scatter plots, sector-wise heatmaps, and property distribution charts.
-3. ** Recommendation Engine:** A content-based filtering system using Cosine Similarity to suggest the top 5 most similar properties based on user taste and lifestyle requirements.
+1. **Price Predictor:** Enter property details (Sector, BHK, Area, Luxury Tier) to get an instant, AI-driven price estimate with ~90% accuracy.
+2. **Market Analysis:** Interactive dashboards featuring price-area scatter plots, sector-wise heatmaps, and property distribution charts.
+3. **Recommendation Engine:** A content-based filtering system using Cosine Similarity to suggest the top 5 most similar properties based on user taste and lifestyle requirements.
 
 ##  Tech Stack
 * **Language:** Python
