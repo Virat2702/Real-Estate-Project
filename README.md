@@ -37,9 +37,3 @@ The platform is divided into three core user-facing modules:
 * **R-Squared ($R^2$):** `0.9005` (Explains 90% of the price variance in the market)
 * **Mean Absolute Error (MAE):** `0.45` Crores (Highly accurate given the market range of ₹50 Lacs to ₹30+ Crores)
 
-##  How to Run Locally
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/your-username/propintel-gurgaon.git](https://github.com/your-username/propintel-gurgaon.git)
-cd propintel-gurgaon
